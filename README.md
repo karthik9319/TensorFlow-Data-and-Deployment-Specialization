@@ -2,7 +2,7 @@
 
 This Specialization has 4 courses.
 
-    - [Browser-based Models with TensorFlow.js] (https://github.com/karthik9319/TensorFlow-Data-and-Deployment-Specialization/tree/master/Browser-based%20Models%20with%20TensorFlow.js)
+[Browser-based Models with TensorFlow.js] (https://github.com/karthik9319/TensorFlow-Data-and-Deployment-Specialization/tree/master/Browser-based%20Models%20with%20TensorFlow.js)
 
     - [Device-based Models with TensorFlow Lite] (https://github.com/karthik9319/TensorFlow-Data-and-Deployment-Specialization/tree/master/Device-based%20Models%20with%20TensorFlow%20Lite)
 
